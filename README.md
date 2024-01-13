@@ -1,2 +1,2 @@
-# Decision_Tree_HeartProject
-heart rate project
+# Decision_Tree_Heart_disease_Project
+Heat_disease project model created
